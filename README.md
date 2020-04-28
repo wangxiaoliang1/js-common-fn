@@ -1,2 +1,2 @@
-# gitTest
-这是个git提交项目的练习项目
+# js-common-fn
+工作中常用js方法记录
